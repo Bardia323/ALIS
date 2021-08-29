@@ -1,4 +1,5 @@
 # ALIS
+👨‍🏫 Active Learning Intelligent System. Whitepaper for an AI-powered universal education solution. Inspired from VALIS by PKD.
 ## 💡 Idea: 
 Low-temperature Transformer models fine-tuned on text-books create interactive shells which are capable of giving factually correct responses.
 ALIS would be a non-profit with the aim of giving higher quality education using interactive terminals.
